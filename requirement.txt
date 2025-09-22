@@ -1,0 +1,8 @@
+numpy<2
+mediapipe==0.10.14
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+matplotlib>=3.7
+opencv-python>=4.8
+scikit-learn>=1.3
