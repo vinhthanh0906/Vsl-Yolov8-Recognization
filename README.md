@@ -36,7 +36,7 @@ This project implements Vietnamese Sign Language (VSL) and American Sign Languag
 
 ## 📬 Contact  
 - 📧 Email: vinhntdata0906l@gmail.com  
-- 🌐 GitHub: [your-github-profile](https://github.com/vinhthanh0906)  
-- 🔗 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/contactvinhthanhnguyen)  
+- 🌐 GitHub: [My Github](https://github.com/vinhthanh0906)  
+- 🔗 LinkedIn: [My Linkedin](www.linkedin.com/in/contactvinhthanhnguyen)  
 
 ---
