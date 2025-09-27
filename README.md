@@ -26,10 +26,9 @@ This project implements Vietnamese Sign Language (VSL) and American Sign Languag
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1cdba37b-2a19-4376-a531-15f5d4eb87b8" alt="Demo 3" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/cc4dc580-785f-499a-b8e9-a8fe98e5b74a" alt="Demo 3" width="45%"/>
   <img src="https://github.com/user-attachments/assets/18dce2d3-ff90-4349-a35d-d225afa05fdd" alt="Demo 4" width="45%"/>
 </p>
-
 
 
 ---
